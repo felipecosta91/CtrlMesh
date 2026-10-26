@@ -1,0 +1,20 @@
+# Build e IDE
+build/
+.gradle/
+.kotlin/
+.idea/
+*.iml
+local.properties
+captures/
+.cxx/
+
+# APKs vão na release, não no repositório
+*.apk
+*.aab
+
+# Legado da versão anterior
+backend/
+frontend/
+docs/regras-de-negocio.html
+
+.DS_Store

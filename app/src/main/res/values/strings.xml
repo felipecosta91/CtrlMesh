@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CtrlMesh</string>
+    <string name="descricao_controle">Executa no celular os toques e os botões Voltar, Início e Recentes feitos na central multimídia.</string>
+</resources>
